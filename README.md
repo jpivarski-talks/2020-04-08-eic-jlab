@@ -1,6 +1,8 @@
 ## Uproot and Awkward Arrays
 
-Tutorial for Electron Ion Collider users, presented on April 8, 2020 at 10am EDT by [Jim Pivarski](mailto:pivarski@princeton.edu) (Princeton University). See [the agenda](https://indico.bnl.gov/event/8242/).
+Tutorial for Electron Ion Collider users, presented on April 8, 2020 at 10am EDT by [Jim Pivarski](mailto:pivarski@princeton.edu) (Princeton University).
+
+See [the agenda](https://indico.bnl.gov/event/8242/).
 
 ## How to participate
 
