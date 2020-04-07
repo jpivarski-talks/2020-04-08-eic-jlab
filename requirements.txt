@@ -1,0 +1,10 @@
+awkward1==0.2.10
+uproot<4.0
+particle
+boost-histogram
+matplotlib
+mplhep
+numba<0.49
+pandas
+numexpr
+autograd
