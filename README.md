@@ -1,8 +1,6 @@
 ## Uproot and Awkward Arrays
 
-### Tutorial for Electron Ion Collider users
-
-Jim Pivarski (Princeton University)
+Tutorial for Electron Ion Collider users, presented by Jim Pivarski (Princeton University).
 
 ## How to participate
 
