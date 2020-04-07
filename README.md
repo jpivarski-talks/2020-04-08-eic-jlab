@@ -10,10 +10,12 @@ The preferred way to participate is to run the JupyterLab code with us, evaluati
 
 You can run all of these notebooks on a public cloud service called Binder:
 
+<br>
 <p align="center">
   <a href="https://mybinder.org/v2/gh/jpivarski/2020-04-08-eic-jlab/1.0?urlpath=lab/tree/2020-04-08-eic-jlab-UNEVALUATED.ipynb">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="40">
   </a>
 </p>
+<br>
 
 To run everything on your own laptop, use pip to install the packages listed in [requirements.txt](requirements.txt) and open [2020-04-08-eic-jlab-UNEVALUATED.ipynb](2020-04-08-eic-jlab-UNEVALUATED.ipynb) in Jupyter.
