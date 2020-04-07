@@ -1,8 +1,10 @@
-## Uproot and Awkward Arrays: tutorial for Electron Ion Collider users
+## Uproot and Awkward Arrays
+
+### Tutorial for Electron Ion Collider users
 
 Jim Pivarski (Princeton University)
 
-### How to participate
+## How to participate
 
 This tutorial was presented to the Electron Ion Collider group on April 8, 2020 at 10am EDT. See [the agenda](https://indico.bnl.gov/event/8242/).
 
