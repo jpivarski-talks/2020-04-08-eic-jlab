@@ -19,3 +19,5 @@ You can run all of these notebooks on a public cloud service called Binder:
 <br>
 
 To run everything on your own laptop, use pip to install the packages listed in [requirements.txt](requirements.txt) and open [2020-04-08-eic-jlab-UNEVALUATED.ipynb](2020-04-08-eic-jlab-UNEVALUATED.ipynb) in Jupyter.
+
+A video of the talk is [now on YouTube](https://www.youtube.com/watch?v=FoxNS6nlbD0).
